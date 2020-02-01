@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\python\pj\cpp\hybrid_astar\hybrid_astar\main.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\python\pj\cpp\hybrid_astar\hybrid_astar\main.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+  Hybrid_Astar.vcxproj -> D:\python\pj\cpp\Hybrid_Astar\Debug\Hybrid_Astar.exe
